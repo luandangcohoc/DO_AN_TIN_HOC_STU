@@ -1,5 +1,11 @@
 # library-management-system
 xây dựng quản lý thư viện bằng c++
+Môn học: đồ án tin học
+Giảng viên hướng dẫn: Lương An Vinh
+Sinh viên thực hiện: Nguyễn Luân - MSSV: DH52400632
+
+#GIỚI THIỆU CHUNG VỀ ĐỒ ÁN
+
 
 # PROJECT CHECKLIST
 
