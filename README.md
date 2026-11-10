@@ -1,4 +1,4 @@
-# library-management-system
+# LIBRARY-MANAGEMENT-SYSTEM
 
 - xây dựng quản lý thư viện bằng c++
 - Môn học: đồ án tin học
@@ -7,6 +7,9 @@
 
 # GIỚI THIỆU CHUNG VỀ ĐỒ ÁN
 
+- Đồ án được thực hiện và xây dựng trên ngôn ngữ C++
+- Phiên bản 1.0.0
+- Chương trình ứng dụng các CTDL và TG đã học, lưu trữ dữ liệu trực tiếp trên file mà "không sử dụng CSDL"
 
 # PROJECT CHECKLIST
 
