@@ -9,9 +9,9 @@ xây dựng quản lý thư viện bằng c++
 - [x] Cấu trúc thư mục
 
 ## Tuần 2
-- [ ] Design.pdf
-- [ ] Sơ đồ lớp
-- [ ] Định nghĩa struct
+- [x] Design.pdf
+- [x] Sơ đồ lớp
+- [x] Định nghĩa struct
 
 ## Tuần 3
 - [ ] AVL
