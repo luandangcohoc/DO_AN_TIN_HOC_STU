@@ -4,9 +4,9 @@ xây dựng quản lý thư viện bằng c++
 # PROJECT CHECKLIST
 
 ## Tuần 1
-- [ x] Repo Git
-- [ x] SRS.pdf
-- [ x] Cấu trúc thư mục
+- [ x ] Repo Git
+- [ x ] SRS.pdf
+- [ x ] Cấu trúc thư mục
 
 ## Tuần 2
 - [ ] Design.pdf
